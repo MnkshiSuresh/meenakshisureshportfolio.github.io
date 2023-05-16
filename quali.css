@@ -1,0 +1,74 @@
+*{
+    background-color: rgb(223, 218, 218);
+    
+}
+.hero{
+    position: relative;
+   
+    background: rgb(223, 218, 218);
+    }
+.logo{
+    height: 90px;
+}
+nav{
+display:flex;
+ width: 84%;
+ margin:auto;
+ padding: 20px;
+ align-items: center;
+ justify-content: space-between;
+} 
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}  
+nav ul li a{
+    text-decoration: none;
+    color:#000;
+    font-weight: bold;
+    
+}
+nav ul li a:hover{
+    color:red;
+
+}
+.logos{
+    padding-top: 20px;
+    height:40px;
+    width:40px;
+}
+.myself{
+    font-size: 50px;
+    color: #dac207;
+    margin-bottom: 20px;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+body{
+    padding-left: 80px;
+}
+.p{
+    padding-left: 80px;
+
+}
+.po{
+    list-style: none;
+    padding-top: 40px;
+    padding-left: 80px;
+}
+.ki{
+    display: flex;
+    flex-direction: row;
+}
+.kiki{
+    padding-right: 140px;
+    padding-top: 85px;
+    height: 380px;
+    width:400px;}
+
+.lo{
+    height: 180px;
+    width: 350px;
+   
+}
